@@ -1,0 +1,2 @@
+rootProject.name = "new master app"
+include ':app'
